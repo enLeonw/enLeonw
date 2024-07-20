@@ -9,7 +9,7 @@
 
 [![modern cpp](https://img.shields.io/badge/组织-AGI%20降临派-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
 ![](https://img.shields.io/badge/症状-巨物恐惧症-yellow) 
-![](https://img.shields.io/badge/性格-不详-red) 
+![](https://img.shields.io/badge/性格-不详-green) 
 ![](https://img.shields.io/badge/爱好-二次元-red)
 
 </div>
